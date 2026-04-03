@@ -41,6 +41,11 @@ https://www.npmjs.com/package/genpro-cli
 CLI tool to generate project scaffolding for UI, API, and Fullstack applications
 with versioned templates.
 
+5) mkterm-cli
+https://www.npmjs.com/package/mkterm-cli
+
+CLI tool to run the local web terminal in local browser with some good capabilities like commands history, saved commands.
+
 
 ------------------------------------------------------------
 📚 AUTHOR
