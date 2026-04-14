@@ -38,11 +38,16 @@ lighdator is simple and light weight field validator.
 4) genpro-cli
 https://www.npmjs.com/package/genpro-cli
 
+https://boilerplate-hub.web.app
+
 CLI tool to generate project scaffolding for UI, API, and Fullstack applications
 with versioned templates.
 
 5) mkterm-cli
 https://www.npmjs.com/package/mkterm-cli
+
+
+https://mkterm.web.app/
 
 CLI tool to run the local web terminal in local browser with some good capabilities like commands history, saved commands.
 
